@@ -1,2 +1,10 @@
 # signate_competition_02
-健康経営のための疾患リスク予測
+健診データによる肝疾患判定  
+  
+## install
+>pip install pandas  
+pip install sklearn  
+pip install matplotlib  
+pip install seaborn  
+  
+  
