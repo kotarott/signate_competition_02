@@ -1,0 +1,2 @@
+# signate_competition_02
+健康経営のための疾患リスク予測
